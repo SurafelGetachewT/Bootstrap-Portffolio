@@ -4,5 +4,5 @@ This is collaboration project to test bootstrap by developing portfolio website.
 
 #Contributors
 
-Surafel. 
-Bloosom.
+Surafel Getachew
+Bloosom Aniedi
